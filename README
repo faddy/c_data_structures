@@ -1,4 +1,6 @@
 linkedListImpl.c -> implementation of a singly linked list
-queueImpl -> implementation of a queue
+queueImpl.c -> implementation of a queue
+stackImpl.c -> implementation of a stack
+treeImpl.c  -> implementation of a binary tree
 
-
+remove_duplicates.c -> remove duplicate characters from a character array
